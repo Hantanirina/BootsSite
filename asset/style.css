@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+nav {
+  width: 100%;
+  top: 0;
+}
+.heroSection {
+  height: 100vh;
+  background-color: #dee2e6;
+  border: 1px solid transparent;
+}
+.title {
+  margin-left: 25vw;
+  margin-top: 25vh;
+}
+.proposition {
+  margin-left: 40vw;
+  margin-top: 12vh;
+}
+.introduction {
+  margin-left: 12vw;
+  margin-top: 7vh;
+}
+.form {
+  margin-left: 8vw;
+}
+.intro2 {
+  margin-left: 23vw;
+}
