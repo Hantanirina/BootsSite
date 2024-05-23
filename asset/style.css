@@ -11,6 +11,7 @@ nav {
   height: 100vh;
   background-color: #dee2e6;
   border: 1px solid transparent;
+  z-index: -1;
 }
 .title {
   margin-left: 25vw;
@@ -29,4 +30,11 @@ nav {
 }
 .intro2 {
   margin-left: 23vw;
+}
+.container {
+  margin-left: 11vw;
+}
+.cardForm {
+  margin-left: 51vw;
+  margin-top: 1px;
 }
