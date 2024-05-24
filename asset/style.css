@@ -38,3 +38,15 @@ nav {
   margin-left: 51vw;
   margin-top: 1px;
 }
+@media screen and (max-width: 1000px) {
+  .cardForm {
+    margin-left: 4.5vw;
+    margin-top: 5vh;
+  }
+}
+.card-text {
+  max-height: 25vh;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  position: relative;
+}
